@@ -21,7 +21,7 @@ body {
 .container {
   max-width: 640px;
   margin: 50px auto;
-  background: #0b0c0c;
+  background: #FFFF;
   padding: 20px;
   border-radius: 10px;
 }
@@ -59,7 +59,6 @@ form button:hover {
 
 .relogio{
   font-size: 3em;
-  color: rgb(7, 44, 252);
 }
 
 .iniciar {
@@ -75,9 +74,5 @@ form button:hover {
 .zerar{
   background-color: black;
   color: white;
-}
-
-.h1 {
-  color: rgb(7, 44, 252);
 }
 
